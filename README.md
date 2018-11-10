@@ -1,0 +1,2 @@
+# Distriucion-Hipergeometrica
+Distribución hipergeometrica
